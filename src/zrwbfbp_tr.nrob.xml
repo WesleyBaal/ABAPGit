@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZRWBFBP_TR</OBJECT>
+    <DOMLEN>NUM15</DOMLEN>
+    <PERCENTAGE>5.0</PERCENTAGE>
+    <BUFFER>X</BUFFER>
+    <NOIVBUFFER>00001000</NOIVBUFFER>
+    <CHANGED_AT>20231207142354.274967</CHANGED_AT>
+    <CHANGED_BY>WESLEYB</CHANGED_BY>
+    <ENAME>WESLEYB</ENAME>
+    <EDATE>2023-11-03</EDATE>
+    <ETIME>09:17:00</ETIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>P</LANGU>
+    <OBJECT>ZRWBFBP_TR</OBJECT>
+    <TXT>ZRWBFBP - Solicitação de transporte</TXT>
+    <TXTSHORT>Solicitação de tran.</TXTSHORT>
+    <ENAME>WESLEYB</ENAME>
+    <EDATE>2023-11-03</EDATE>
+    <ETIME>09:17:00</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

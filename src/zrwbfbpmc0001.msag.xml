@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZRWBFBPMC0001</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>ZRWBFBP - Classe de mensagens</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Nenhum arquivo de upload foi fornecido.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Falha na geração do arquivo de log.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Solicitação de transporte &amp; atualizada com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Status &amp; não permite eliminar a solicitação de transporte &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>É obrigatório preencher todos os campos para concluir o cadastro.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Solicitação de transporte &amp; excluida com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Nenhum registro foi localizado, tente novamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Nenhuma solicitação de transporte encontrada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Cliente não localizado no banco de dados.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Status &amp; não permite alteração.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Status da solicitação de transporte &amp; foi atualizado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Já existe tarefa de separação para este item.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Tarefa de separação criada com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Tarefa de separação é obrigatória para todos os itens.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Deseja desvincular o usúario da tarefa de separação?</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Tarefa de separação não localizada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Deseja desvincular o usúario da tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Deseja reiniciar a tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Deseja finalizar a conferência da tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Material não localizado na tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Quantidade conferida não está em conformidade com a tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Material separado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Usuário desvinculado com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Nenhuma tarefa de separação finalizada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Tarefa de separação finalizada com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Selecione uma linha e tente novamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Solicitação de transporte não localizada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>A confirmação para este ID já foi validado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Status &amp; não permite reiniciar tarefa de separação.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Solicitação de transporte &quot;&amp;&quot; criada com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Nenhum item relacionado a solicitação de transporte &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>A tarefa de separação é inicial e não pode ser reiniciada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Função não autorizada ao usuário &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Solicitação de transporte &amp; cancelada com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Nenhuma linha selecionada, tente novamente.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Já existe tarefa de separação para este item.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Item não esta atrelado a solicitação de transporte.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Tarefa de separação reiniciada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Placa de veículo inválida, alterações não gravadas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>ID não vinculado à solicitação de transporte ou versão inativa.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Não existe tarefa de separação para o item selecionado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Checkout finalizado com êxito.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Solicitação de transporte cancelada, não é possivel visualizar.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>É obrigatório preencher todos os campos para salvar as alterações.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>É obrigatório ao menos uma remessa para concluir o cadastro.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Atualização de status cancelada.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Não há histórico de versões para a tarefa de separação &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZRWBFBPMC0001</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Placa de veículo inválida.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

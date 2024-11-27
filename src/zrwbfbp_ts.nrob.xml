@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZRWBFBP_TS</OBJECT>
+    <DOMLEN>NUM10</DOMLEN>
+    <PERCENTAGE>5.0</PERCENTAGE>
+    <BUFFER>X</BUFFER>
+    <NOIVBUFFER>00001000</NOIVBUFFER>
+    <CHANGED_AT>20231206210421.539996</CHANGED_AT>
+    <CHANGED_BY>WESLEYB</CHANGED_BY>
+    <UNAME>WESLEYB</UNAME>
+    <UDATE>2023-12-06</UDATE>
+    <UTIME>17:10:34</UTIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>P</LANGU>
+    <OBJECT>ZRWBFBP_TS</OBJECT>
+    <TXT>ZRWBFBP - Tarefa de separação</TXT>
+    <TXTSHORT>ZRWBFBP - Tarefa</TXTSHORT>
+    <ENAME>WESLEYB</ENAME>
+    <EDATE>2023-12-06</EDATE>
+    <ETIME>17:10:26</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
